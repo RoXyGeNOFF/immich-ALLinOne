@@ -5,8 +5,8 @@
 
 ## Быстрый старт
 ```bash
-git clone https://github.com/YourUser/immich-one-minute-setup.git
-cd immich-one-minute-setup
+git clone https://github.com/RoXyGeNOFF/immich-ALLinOne.git
+cd immich-ALLinOne
 chmod +x install-immich.sh
 ./install-immich.sh
 ```
