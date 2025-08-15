@@ -1,0 +1,4 @@
+# Local runtime
+immich-app/
+.env
+*.log
