@@ -9,11 +9,11 @@ git clone https://github.com/YourUser/immich-one-minute-setup.git
 cd immich-one-minute-setup
 chmod +x install-immich.sh
 ./install-immich.sh
-
+```
 # Откройте в браузере (после запуска контейнеров):
 # http://<IP-сервера>:2283
 # Первый зарегистрированный пользователь станет админом.
-```
+
 
 > Скрипт сам скачает **docker-compose.yml** и **.env** из последних релизов Immich, заполнит минимальные переменные,
 > подставит ваш часовой пояс, и запустит `docker compose up -d`.
